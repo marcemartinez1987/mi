@@ -1,0 +1,26 @@
+version: "3.3"
+services:
+  influxdb2:
+    container_name: MONITOREO-INFLUXDB
+    image: mmartineznetdev/monitoreo-influxdb
+    restart: on-failure
+    volumes:
+      - "influxdb2-storage:/var/influxdb/data"
+    env_file:
+      - ./credentials.env
+    ports:
+      - 8087:8086
+  telegraf:
+    container_name: MONITOREO-TELEGRAF
+    image: mmartineznetdev/monitoreo-telegraf
+    volumes:
+      - "./telegraf.conf:/etc/telegraf/telegraf.conf"
+    env_file:
+      - ./credentials.env
+    links:
+      - "influxdb2"
+    depends_on:
+      - "influxdb2"
+volumes:
+  influxdb2-storage:
+    external: true

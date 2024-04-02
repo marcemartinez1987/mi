@@ -1,0 +1,7199 @@
+170.82.156.0/22:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+181.78.198.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+190.61.101.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+181.78.78.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+190.60.34.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+160.20.165.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+168.197.135.0/24:
+  description: No description provided (No ROA available)
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+181.78.31.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+72.252.1.0/24:
+  description: No description provided (No ROA available)
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+190.61.38.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+190.61.61.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+177.87.27.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+190.60.32.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+177.234.193.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+177.234.205.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+157.100.52.0/22:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+177.234.249.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+45.177.180.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+45.177.181.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+181.78.112.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+200.24.140.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+181.78.22.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+45.167.0.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+45.70.236.0/22:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+181.78.68.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+186.179.70.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+2803:17e0::/32:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+2803:e880::/32:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+2803:2540:89::/48:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+2803:bc40:816b::/48:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+2803:2540:2e::/48:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+2803:2540:d1::/48:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+2803:2540:8c::/48:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+2803:2540:d2::/48:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+2803:2540:55::/48:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+2803:2540:9e::/48:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+2803:2540:ab::/48:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+2803:2540:45::/48:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+2803:bc40:8166::/48:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+2803:bc40:a02b::/48:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+181.78.77.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+2803:2540:54::/48:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+190.61.37.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+190.61.51.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+2803:2540:9d::/48:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+190.61.86.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+190.61.60.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+2803:2540:8e::/48:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+181.78.69.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+181.78.91.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+168.197.133.0/24:
+  description: No description provided (No ROA available)
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+181.78.121.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+2803:2540:c3::/48:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+2803:e880:8100::/48:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+190.61.52.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+131.196.112.0/22:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+200.24.128.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+200.24.136.0/22:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+2803:2540:2a::/48:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+2803:bc40:a03a::/48:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+2803:2540:47::/48:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+45.70.197.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+45.70.196.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+146.82.130.0/24:
+  description: No description provided (No ROA available)
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+45.71.200.0/22:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+200.229.145.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+181.119.125.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+167.250.181.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+2803:48e0:1::/48:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+181.78.92.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+157.100.56.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+157.100.69.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+190.5.212.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+187.108.228.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+45.224.20.0/22:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+2804:74:ffff::/48:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+81.199.115.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+2803:2540:c2::/48:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+160.20.167.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+190.60.35.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+177.234.216.0/22:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+2803:48e0::/32:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+2803:bc40:8171::/48:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+181.188.203.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+190.242.88.0/24:
+  description: No description provided (No ROA available)
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+2803:2540:e8::/48:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+2803:2540:be::/48:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+181.78.211.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+181.79.221.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+45.71.36.0/22:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+2803:2540:46::/48:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+186.179.69.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+2803:bc40:a033::/48:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+2803:2540:1c::/48:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+2803:2540:24::/48:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+2803:2540:cd::/48:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+2803:2540:2b::/48:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+167.250.182.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+2803:bc40:816c::/48:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+2803:2540:94::/48:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+2803:2540:a1::/48:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+2803:2540:e9::/48:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+2803:2540:21::/48:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+181.78.111.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+190.61.109.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+2803:2540:31::/48:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+181.78.70.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+187.108.229.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+177.234.252.0/22:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+170.80.19.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+186.148.97.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+190.61.123.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+190.171.83.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+164.163.134.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+186.148.96.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+45.238.28.0/22:
+  description: No description provided (No ROA available)
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+157.100.71.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+45.4.90.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+177.234.227.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+190.115.3.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+2803:2540:9c::/48:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+177.234.250.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+45.71.201.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+200.24.156.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+2803:bc40:a03b::/48:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+2803:bc40:a050::/48:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+190.61.100.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+72.252.0.0/24:
+  description: No description provided (No ROA available)
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+177.234.204.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+2803:2540:2c::/48:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+2803:bc40:a035::/48:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+177.234.192.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+177.234.212.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+190.61.40.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+2803:e880:810a::/48:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+190.115.1.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+181.78.76.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+200.24.130.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+45.70.202.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+45.225.104.0/22:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+181.78.23.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+177.234.224.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+2803:e880:8115::/48:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+181.119.104.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+2803:e880:8109::/48:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+181.188.216.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+167.250.183.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+2803:bc40:8165::/48:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+2803:bc40:a014::/48:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+2803:2540:6a::/48:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+190.61.81.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+181.78.80.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+201.182.55.0/24:
+  description: No description provided (No ROA available)
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+190.61.96.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+186.179.79.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+181.78.102.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+181.225.188.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+2803:53e0::/48:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+2803:bc40:a034::/48:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+2803:7a00:8106::/48:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+187.108.232.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+190.61.102.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+45.225.89.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+181.78.5.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+190.61.119.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+177.234.194.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+64.209.30.0/24:
+  description: No description provided (No ROA available)
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+2803:bc40:a052::/48:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+181.119.70.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+181.78.99.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+2803:bc40:8145::/48:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+170.82.157.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+2803:2540:f3::/48:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+200.24.146.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+45.190.186.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+181.78.98.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+167.249.104.0/22:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+200.24.149.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+200.24.155.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+2803:bc40:a01c::/48:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+177.234.196.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+206.132.99.0/24:
+  description: No description provided (No ROA available)
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+2803:2540:75::/48:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+2803:2b00:1100::/48:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+2803:bc40:a047::/48:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+177.234.206.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+190.61.98.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+2803:2540:fa::/48:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+2803:2540:102::/48:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+177.234.208.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+2803:4580:c000::/36:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+45.71.184.0/22:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+45.71.186.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+200.62.9.0/24:
+  description: No description provided (No ROA available)
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+181.119.105.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+2803:2540:34::/48:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+181.78.207.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+2803:2540:b1::/48:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+177.234.231.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+2803:2540:a::/48:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+2803:bc40:8125::/48:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+2803:bc40:a015::/48:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+2803:bc40:a030::/48:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+2803:2540:2f::/48:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+2803:2540:99::/48:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+2803:2540:37::/48:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+181.78.118.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+2803:2540:e5::/48:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+190.61.82.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+167.250.221.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+181.119.66.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+177.234.243.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+157.100.61.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+45.71.112.0/22:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+181.78.113.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+187.108.233.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+190.61.43.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+190.61.116.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+190.61.111.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+181.78.83.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+45.71.115.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+45.167.1.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+45.224.98.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+170.83.10.0/23:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+201.182.150.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+177.234.215.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+185.213.220.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+45.70.238.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+181.78.192.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+2803:2540:5d::/48:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+2803:2540:b4::/48:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+2803:2540:da::/48:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+2803:2540:91::/48:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+2803:2540:3::/48:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+2803:bc40:815d::/48:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+2803:2540:60::/48:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+2803:2540:a8::/48:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+2803:2540:fd::/48:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+189.84.237.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+2803:2540::/32:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+185.213.221.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+190.115.12.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+186.179.72.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+2803:bc40:8164::/48:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+2803:2540:a5::/48:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+45.177.182.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+45.70.198.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+190.115.6.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+181.78.115.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+181.78.20.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+181.78.200.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+181.78.79.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+200.24.141.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+204.199.146.0/24:
+  description: No description provided (No ROA available)
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+2803:2540:8f::/48:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+2803:2540:56::/48:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+190.61.56.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+177.234.229.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+170.83.240.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+187.108.230.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+167.250.115.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+2803:bc40:8104::/48:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+177.234.252.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+2803:2540:9a::/48:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+2803:2540:28::/48:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+177.234.216.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+157.100.72.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+200.24.143.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+2803:bc40:8133::/48:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+2803:2540:73::/48:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+2803:2540:ee::/48:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+200.62.59.0/24:
+  description: No description provided (No ROA available)
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+2803:bc40:8150::/48:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+181.78.96.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+45.185.128.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+190.60.39.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+190.60.40.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+2803:bc40:814e::/48:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+2803:2540:9f::/48:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+189.84.238.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+190.61.112.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+45.167.2.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+190.61.34.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+2803:2540:f0::/48:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+181.78.74.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+190.61.39.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+2803:2540:6b::/48:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+2803:2540:10::/48:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+2803:2540:d3::/48:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+2803:bc40:a036::/48:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+2803:2540:22::/48:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+2803:2540:97::/48:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+2803:2540:fc::/48:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+2803:2540:57::/48:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+45.224.21.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+181.119.98.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+167.250.222.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+190.61.124.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+2803:2540:d4::/48:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+200.24.157.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+45.177.183.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+190.61.42.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+181.78.82.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+186.148.106.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+181.78.122.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+201.159.112.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+181.78.212.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+201.182.150.0/23:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+45.224.97.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+181.119.126.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+45.71.114.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+200.24.148.0/22:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+190.61.62.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+2803:2540:80::/48:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+190.115.11.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+177.234.213.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+200.24.150.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+190.61.63.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+2803:2b00::/32:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+8.242.223.0/24:
+  description: No description provided (No ROA available)
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+190.115.13.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+181.78.123.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+2803:2540:58::/48:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+2803:2540:106::/48:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+2803:2540:86::/48:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+2803:bc40:815e::/48:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+2803:2540:d5::/48:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+2803:2540:fe::/48:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+2803:e880:8111::/48:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+2803:2540:61::/48:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+2803:2540:104::/48:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+2803:2540:b5::/48:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+181.78.84.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+2803:bc40:a025::/48:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+2803:bc40:a048::/48:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+2803:2540:83::/48:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+2804:2b78:8005::/48:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+2803:bc40:8160::/48:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+181.119.92.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+157.100.57.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+190.61.44.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+186.148.110.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+45.71.187.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+200.24.159.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+177.234.202.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+186.148.108.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+170.83.243.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+177.234.225.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+170.83.242.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+67.73.165.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+190.171.80.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+45.224.99.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+45.224.149.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+131.196.14.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+190.61.91.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+190.115.2.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+165.98.233.0/24:
+  description: No description provided (No ROA available)
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+131.255.16.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+2803:2540:38::/48:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+200.24.151.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+190.61.90.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+2803:bc40:a053::/48:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+181.78.71.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+45.185.162.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+2803:2540:33::/48:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+2803:2540:1a::/48:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+190.61.127.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+45.225.88.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+190.171.81.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+45.224.148.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+177.234.239.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+204.199.151.0/24:
+  description: No description provided (No ROA available)
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+186.148.103.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+177.234.230.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+190.61.121.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+2803:bc40:a01b::/48:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+131.196.12.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+2803:2540:63::/48:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+177.234.254.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+2803:bc40:a002::/48:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+2803:2540:6e::/48:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+190.115.15.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+2803:2540:b0::/48:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+72.252.3.0/24:
+  description: No description provided (No ROA available)
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+2803:2540:d8::/48:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+186.148.99.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+177.234.200.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+2803:2540:eb::/48:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+2803:bc40:8161::/48:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+181.78.105.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+2803:2540:84::/48:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+181.78.86.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+190.61.97.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+2803:2540:7c::/48:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+45.4.88.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+200.62.8.0/24:
+  description: No description provided (No ROA available)
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+2803:bc40:8138::/48:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+190.107.209.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+190.61.46.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+138.186.20.0/22:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+2803:2540:e7::/48:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+2803:bc40:a044::/48:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+45.71.184.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+2803:bc40:8170::/48:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+190.61.88.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+167.250.180.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+186.179.65.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+168.197.132.0/24:
+  description: No description provided (No ROA available)
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+45.190.184.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+45.225.47.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+2803:4580:d000::/36:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+177.234.221.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+45.71.202.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+2803:2540:f9::/48:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+2804:2b78:8002::/48:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+2803:2b00:fffd::/48:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+2803:bc40:8159::/48:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+2803:e880:8002::/48:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+2803:2540:de::/48:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+2803:7a00:8110::/48:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+2803:2540:93::/48:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+200.24.128.0/19:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+45.225.104.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+2803:7a00:8105::/48:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+181.78.29.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+181.78.26.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+2803:4580:8100::/40:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+2803:2540:4f::/48:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+2803:bc40:813e::/48:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+2803:bc40:816a::/48:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+181.225.191.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+2803:2540:f8::/48:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+2803:2540:18::/48:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+160.20.164.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+181.119.84.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+181.188.215.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+177.234.220.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+164.163.132.0/22:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+177.234.192.0/18:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+2803:2540:41::/48:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+2803:bc40:a045::/48:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+2803:2540:36::/48:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+186.179.68.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+181.78.208.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+45.70.203.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+190.60.33.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+181.78.199.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+2803:2540:db::/48:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+2803:7a00:8102::/48:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+190.61.50.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+181.78.64.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+185.213.220.0/23:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+2803:2540:5e::/48:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+2803:2540:cc::/48:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+190.61.87.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+181.78.101.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+2803:2b00:fffe::/48:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+190.61.89.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+181.78.6.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+190.107.210.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+2803:2540:3c::/48:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+190.61.105.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+64.209.31.0/24:
+  description: No description provided (No ROA available)
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+181.78.24.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+170.246.100.0/22:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+2803:2540:8d::/48:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+177.234.209.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+45.225.107.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+181.225.189.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+177.234.197.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+181.78.196.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+181.78.205.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+45.71.37.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+200.229.146.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+177.234.235.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+2803:2540:c1::/48:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+2803:2540:4c::/48:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+181.78.192.0/20:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+181.78.67.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+201.77.55.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+190.61.103.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+177.234.244.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+187.108.235.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+67.17.202.0/23:
+  description: No description provided (No ROA available)
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+190.61.117.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+2803:bc40:a040::/48:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+190.61.84.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+200.229.147.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+2803:2540:f7::/48:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+2803:2540:5::/48:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+181.78.11.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+190.61.99.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+181.78.19.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+157.100.59.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+177.234.236.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+181.78.96.0/23:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+200.24.138.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+190.115.0.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+45.224.148.0/22:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+157.100.53.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+200.24.135.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+45.224.151.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+45.71.185.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+177.234.232.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+181.78.107.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+181.78.30.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+181.78.13.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+2803:2540:2d::/48:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+2803:bc40:8142::/48:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+46.29.28.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+181.119.67.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+2803:2540:f5::/48:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+2803:2540:aa::/48:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+2803:bc40:8155::/48:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+2803:2540:7::/48:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+2803:2540:78::/48:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+2803:bc40:811c::/48:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+2803:2540:4a::/48:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+2803:2540:b9::/48:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+2803:7a00:810e::/48:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+45.70.199.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+181.78.28.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+201.182.151.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+200.24.142.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+45.71.39.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+170.80.17.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+179.60.53.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+45.224.150.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+177.234.234.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+167.250.114.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+181.78.73.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+181.78.217.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+177.234.199.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+2803:bc40:a04c::/48:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+45.190.185.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+157.100.52.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+131.196.12.0/22:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+190.61.107.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+200.24.154.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+181.78.87.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+181.78.126.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+181.78.192.0/22:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+45.225.106.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+2803:e880:8114::/48:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+2803:e880:810d::/48:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+177.234.200.0/22:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+2803:2540:27::/48:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+2803:7a00:8103::/48:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+165.98.219.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+2803:2540:101::/48:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+2803:bc40:814d::/48:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+2803:2540:cb::/48:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+190.61.33.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+186.179.67.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+2803:2540:50::/48:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+2803:bc40:a04b::/48:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+2803:2540:ed::/48:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+45.224.152.0/22:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+186.148.100.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+181.78.109.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+190.60.37.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+131.196.115.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+177.234.233.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+181.78.203.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+190.107.211.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+181.78.1.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+201.159.114.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+181.78.17.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+181.79.217.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+2803:7a00:810c::/48:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+190.61.54.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+2803:4580:9200::/40:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+2803:bc40:816e::/48:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+2803:bc40:8141::/48:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+2803:2540:5c::/48:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+2803:2540:ca::/48:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+2803:2540:ba::/48:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+190.61.106.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+2803:2540:48::/48:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+2803:2540:3d::/48:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+181.119.100.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+186.179.75.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+190.61.47.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+2804:2b78:8000::/33:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+2803:2b00:8001::/48:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+190.61.55.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+181.78.210.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+2803:7a00::/32:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+181.78.94.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+45.71.38.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+164.163.133.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+2803:2540:71::/48:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+2803:e880:bff0::/48:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+181.78.27.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+2803:2b00:ffff::/48:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+190.60.38.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+177.234.198.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+94.125.137.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+2803:2540:c5::/48:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+181.78.106.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+2803:2540:49::/48:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+2803:48e0::/48:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+2803:bc40:816f::/48:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+2803:2540:29::/48:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+2803:53e0:1003::/48:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+2803:2540:d9::/48:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+2803:2540:b8::/48:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+2803:2540:52::/48:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+2803:2540:ef::/48:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+2803:bc40:814f::/48:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+2803:2540:7b::/48:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+2803:bc40:8126::/48:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+2803:2540:bb::/48:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+2803:bc40:8106::/48:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+2803:2540:bd::/48:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+2803:2540:e1::/48:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+2803:2540:cf::/48:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+2803:bc40:8103::/48:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+200.24.134.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+2803:2540:7e::/48:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+190.61.122.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+181.78.18.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+2803:e880:8107::/48:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+200.24.147.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+2803:2540:72::/48:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+45.185.163.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+190.115.5.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+45.224.96.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+190.115.8.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+190.61.35.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+181.78.75.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+131.196.13.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+181.78.95.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+45.224.20.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+177.234.226.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+181.78.127.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+181.78.104.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+45.185.130.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+45.70.239.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+45.71.113.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+190.171.82.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+186.148.98.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+181.78.10.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+190.115.10.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+186.148.102.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+170.82.158.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+190.61.120.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+177.234.251.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+167.250.180.0/22:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+200.24.132.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+2803:e880:fff0::/48:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+2803:bc40:8139::/48:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+2803:2540:1b::/48:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+2803:e880:8f00::/40:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+2803:2540:32::/48:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+2803:bc40:a01a::/48:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+2803:2540:3e::/48:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+2803:2540:26::/48:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+2803:2540:4::/48:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+177.234.238.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+2803:bc40:a01d::/48:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+190.61.80.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+200.24.128.0/22:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+2803:4580:8210::/44:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+170.80.18.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+157.100.62.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+186.148.105.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+2803:2540:a3::/48:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+131.196.113.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+160.20.164.0/22:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+45.189.60.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+45.4.88.0/22:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+2803:7a00:8101::/48:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+177.234.201.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+45.4.91.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+2803:53e0:1000::/48:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+2803:2540:fb::/48:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+170.244.210.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+190.61.113.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+186.179.73.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+2803:2540:11::/48:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+2803:59a0:8101::/48:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+2803:2540:b::/48:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+2803:2b00:1102::/48:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+2803:2540:f6::/48:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+2803:2540:79::/48:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+2803:bc40:a041::/48:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+2803:1e00::/32:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+2803:2540:6::/48:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+2803:2540:35::/48:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+190.61.110.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+181.78.103.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+181.78.100.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+181.78.12.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+181.78.15.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+2803:bc40:a037::/48:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+190.61.85.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+177.234.214.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+181.78.124.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+45.167.3.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+2803:2540:98::/48:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+187.108.236.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+45.185.160.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+181.78.81.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+200.24.129.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+200.24.148.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+177.234.217.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+190.61.41.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+157.100.63.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+181.78.201.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+170.82.159.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+186.3.6.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+187.108.228.0/22:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+167.250.220.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+200.24.152.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+2803:bc40:8154::/48:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+138.117.141.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+181.119.127.0/24:
+  description: No description provided (No ROA available)
+  asn:
+    - 52468
+    - 18747
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+200.24.131.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+187.108.232.0/22:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+181.78.110.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+186.148.111.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+138.117.140.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+157.100.58.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+45.225.46.0/23:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+2803:4a60::/32:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+177.234.247.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+2803:2540:92::/48:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+190.61.83.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+2803:59a0::/32:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+190.115.14.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+45.225.88.0/23:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+167.250.112.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+2803:bc40:8102::/48:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+2803:bc40:813f::/48:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+167.250.113.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+190.61.125.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+2803:4580:9100::/40:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+181.78.216.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+2803:2540:a7::/48:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+2803:bc40:815f::/48:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+167.249.107.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+190.115.4.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+2803:2540:d0::/48:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+181.78.7.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+190.115.9.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+2803:2540:42::/48:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+177.234.224.0/22:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+181.78.65.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+45.185.160.0/22:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+45.70.196.0/22:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+2803:2540:8a::/48:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+2803:2540:6f::/48:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+200.24.152.0/22:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+181.78.209.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+2803:e880:8001::/48:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+2803:2540:77::/48:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+2803:2540:25::/48:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+181.119.106.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+187.108.234.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+2803:2540:a0::/48:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+2803:2540:b6::/48:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+2803:2540:53::/48:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+2803:bc40:814c::/48:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+2803:bc40:8169::/48:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+2803:2540:6c::/48:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+2804:2b78:8003::/48:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+2803:bc40:a00e::/48:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+2803:2540:f::/48:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+190.61.45.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+170.244.211.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+2803:53e0:1005::/48:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+181.78.85.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+2803:e880:8118::/48:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+45.71.36.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+2803:bc40:8144::/48:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+186.179.64.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+2803:2540:23::/48:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+181.78.72.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+181.78.197.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+190.61.36.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+45.224.96.0/22:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+170.80.16.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+181.188.202.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+2803:2540:105::/48:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+2803:e880:811b::/48:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+45.190.187.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+181.78.21.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+177.234.255.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+45.185.161.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+200.24.153.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+2803:2540:ff::/48:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+2803:4c0::/42:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+170.244.208.0/22:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+186.179.77.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+157.100.68.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+45.4.89.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+2803:2540:100::/48:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+181.78.16.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+2803:2540:ec::/48:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+186.148.109.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+200.24.158.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+45.70.200.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+2803:bc40:a04a::/48:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+170.83.241.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+177.234.212.0/23:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+181.78.108.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+167.250.223.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+157.100.55.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+170.244.209.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+2803:bc40:8158::/48:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+181.78.14.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+2803:2540:87::/48:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+45.71.203.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+170.82.156.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+45.225.105.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+2803:2540:df::/48:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+181.78.117.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+181.78.2.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+72.252.2.0/24:
+  description: No description provided (No ROA available)
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+131.196.15.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+200.24.136.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+177.234.248.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+177.234.240.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+45.71.200.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+181.78.125.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+2803:2540:2::/48:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+45.225.46.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+200.229.144.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+177.234.219.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+177.234.236.0/22:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+181.78.3.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+2803:bc40:a026::/48:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+181.79.220.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+2803:2540:90::/48:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+2803:f2c0::/32:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+2803:7f60::/32:
+  description: No description provided (No ROA available)
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+2803:2540:67::/48:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+2803:bc40::/32:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+201.182.226.0/23:
+  description: No description provided (No ROA available)
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+186.179.66.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+190.61.115.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+190.61.58.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+45.225.88.0/22:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+181.78.4.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+201.159.115.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+200.24.145.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+186.179.76.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+45.224.23.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+2803:2540:8b::/48:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+2803:2540:f2::/48:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+2803:2540:c9::/48:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+2803:e880:811c::/48:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+181.119.68.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+186.179.71.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+177.234.245.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+181.78.8.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+177.234.203.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+160.20.166.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+177.234.241.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+157.100.60.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+181.78.204.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+181.78.206.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+168.197.134.0/24:
+  description: No description provided (No ROA available)
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+131.196.114.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+190.61.118.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+64.215.146.0/24:
+  description: No description provided (No ROA available)
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+181.78.194.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+2803:bc40:810c::/48:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+181.119.124.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+177.234.196.0/22:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+181.78.120.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+165.98.250.0/24:
+  description: No description provided (No ROA available)
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+181.119.64.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+2804:2b78:8001::/48:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+2803:bc40:813c::/48:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+45.70.237.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+186.179.78.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+45.70.201.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+2803:2540:5f::/48:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+186.179.74.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+181.119.83.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+157.100.54.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+190.61.114.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+181.78.0.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+200.24.144.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+177.234.237.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+190.61.53.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+181.78.93.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+45.225.44.0/22:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+2803:2540:e2::/48:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+2803:2540:d6::/48:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+2803:2540:e6::/48:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+2803:2540:ce::/48:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+2803:2540:103::/48:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+2803:bc40:a02f::/48:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+2803:2540:69::/48:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+2803:2540:70::/48:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+2803:2540:e3::/48:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+2803:2540:f1::/48:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+2803:bc40:a04d::/48:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+2803:2540:59::/48:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+2803:2540:5b::/48:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+45.224.153.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+201.159.113.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+190.60.36.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+45.185.129.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+181.78.202.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+67.73.164.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+200.24.139.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+177.234.218.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+45.70.236.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+186.148.101.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+181.78.97.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+2803:bc40:816d::/48:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+2803:2540:82::/48:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+2803:2540:7a::/48:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+2803:bc40:a04e::/48:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+190.61.49.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+2803:e880:9000::/48:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+187.108.231.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+190.61.57.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+45.224.22.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+190.107.208.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+190.115.7.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+190.61.126.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+45.224.152.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+177.234.253.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+190.61.48.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+181.119.87.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+2803:2540:16::/48:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+2803:2540:6d::/48:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+200.24.156.0/22:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+2803:2540:107::/48:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+2803:2540:15::/48:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+2803:2540:65::/48:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+2803:2540:62::/48:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+2803:2540:66::/48:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+2803:bc40:8128::/48:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+2803:2540:108::/48:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+2803:bc40:8172::/48:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+2803:bc40:a005::/48:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+2803:2540:d::/48:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+2803:bc40:8143::/48:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+2803:2540:c8::/48:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+2803:2540:14::/48:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+2803:bc40:8151::/48:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+2803:2540:74::/48:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+2803:2540:1::/48:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+45.182.43.0/24:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+157.100.56.0/22:
+  description: No description provided
+  asn:
+    - 52468
+  ignoreMorespecifics: false
+  ignore: false
+  group: noc
+131.196.112.0/24:
+  description: REDECOM, EC
+  asn:
+    - 269756
+  ignoreMorespecifics: true
+  ignore: true
+  group: noc
+2803:2540:b7::/48:
+  description: EXPERTSERVI S.A., EC
+  asn:
+    - 265799
+  ignoreMorespecifics: true
+  ignore: true
+  group: noc
+2803:2540:12::/48:
+  description: SERVITRACTOR S.A., EC
+  asn:
+    - 271874
+  ignoreMorespecifics: true
+  ignore: true
+  group: noc
+200.24.133.0/24:
+  description: SERVITRACTOR S.A., EC
+  asn:
+    - 271874
+  ignoreMorespecifics: true
+  ignore: true
+  group: noc
+177.234.195.0/24:
+  description: SERVITRACTOR S.A., EC
+  asn:
+    - 271874
+  ignoreMorespecifics: true
+  ignore: true
+  group: noc
+177.234.228.0/24:
+  description: DESPLIEGUE COMPUTACIONAL E INTERNET DCNET S.A., EC
+  asn:
+    - 271837
+  ignoreMorespecifics: true
+  ignore: true
+  group: noc
+177.234.211.0/24:
+  description: VUELATECHNOLOGY S.A.S., EC
+  asn:
+    - 272954
+  ignoreMorespecifics: true
+  ignore: true
+  group: noc
+170.244.208.0/24:
+  description: LLANOS ALOMIA LIGIA VERONICA, EC
+  asn:
+    - 271882
+  ignoreMorespecifics: true
+  ignore: true
+  group: noc
+45.225.90.0/24:
+  description: FAJARDO PILICITA NESTOR MARCELO JAKFIBER, EC
+  asn:
+    - 272914
+  ignoreMorespecifics: true
+  ignore: true
+  group: noc
+45.225.44.0/24:
+  description: BENALCAZAR ROMERO LEONARDO ISRAEL MAXXNET, EC
+  asn:
+    - 266880
+  ignoreMorespecifics: true
+  ignore: true
+  group: noc
+45.225.45.0/24:
+  description: BENALCAZAR ROMERO LEONARDO ISRAEL MAXXNET, EC
+  asn:
+    - 266880
+  ignoreMorespecifics: true
+  ignore: true
+  group: noc
+options:
+  monitorASns:
+    '52468':
+      group: noc
+      upstreams:
+        - 10429
+        - 11830
+        - 12956
+        - 1299
+        - 13786
+        - 13878
+        - 16735
+        - 174
+        - 18747
+        - 19114
+        - 1916
+        - 22356
+        - 22927
+        - 23379
+        - 23487
+        - 23520
+        - 24482
+        - 25091
+        - 263237
+        - 265684
+        - 266925
+        - 266931
+        - 269783
+        - 270052
+        - 270340
+        - 272713
+        - 27947
+        - 28124
+        - 28329
+        - 29838
+        - 3356
+        - 33597
+        - 33891
+        - 34549
+        - 35280
+        - 3549
+        - 36236
+        - 37468
+        - 394684
+        - 395880
+        - 400282
+        - 40850
+        - 41327
+        - 47787
+        - 50629
+        - 52320
+        - 53013
+        - 5511
+        - 58453
+        - 60068
+        - 6057
+        - 61568
+        - 64126
+        - 6762
+        - 6939
+        - 7195
+        - 8359
+        - 9498
+      downstreams:
+        - 10269
+        - 10778
+        - 12222
+        - 1299
+        - 13150
+        - 13335
+        - 14187
+        - 14463
+        - 14522
+        - 14537
+        - 15084
+        - 16592
+        - 16921
+        - 18747
+        - 18840
+        - 19377
+        - 19447
+        - 21571
+        - 21765
+        - 23031
+        - 23379
+        - 25607
+        - 25773
+        - 25799
+        - 262145
+        - 262146
+        - 262149
+        - 262167
+        - 262169
+        - 262179
+        - 262184
+        - 262204
+        - 262207
+        - 262216
+        - 262218
+        - 262223
+        - 262234
+        - 262241
+        - 262252
+        - 262255
+        - 262256
+        - 262262
+        - 262344
+        - 262393
+        - 262450
+        - 262589
+        - 262881
+        - 262949
+        - 263057
+        - 263162
+        - 263170
+        - 263215
+        - 263232
+        - 263243
+        - 263245
+        - 263246
+        - 263247
+        - 263326
+        - 263411
+        - 263469
+        - 263626
+        - 263691
+        - 263698
+        - 263703
+        - 263713
+        - 263725
+        - 263749
+        - 263750
+        - 263751
+        - 263756
+        - 263760
+        - 263761
+        - 263762
+        - 263783
+        - 263801
+        - 263805
+        - 263812
+        - 263824
+        - 263852
+        - 264111
+        - 264360
+        - 264450
+        - 264516
+        - 264621
+        - 264635
+        - 264637
+        - 264696
+        - 264744
+        - 264746
+        - 264756
+        - 264770
+        - 264806
+        - 264824
+        - 264825
+        - 264826
+        - 264847
+        - 264851
+        - 264959
+        - 265066
+        - 265181
+        - 265319
+        - 265354
+        - 265393
+        - 265629
+        - 265632
+        - 265636
+        - 265650
+        - 265657
+        - 265684
+        - 265693
+        - 265698
+        - 265724
+        - 265762
+        - 265775
+        - 265780
+        - 265788
+        - 265797
+        - 265799
+        - 265815
+        - 265855
+        - 265861
+        - 265863
+        - 266015
+        - 266319
+        - 266382
+        - 266412
+        - 266492
+        - 266602
+        - 266664
+        - 266665
+        - 266679
+        - 266686
+        - 266728
+        - 26673
+        - 266746
+        - 266755
+        - 266783
+        - 266790
+        - 266802
+        - 266812
+        - 266814
+        - 266828
+        - 266831
+        - 266834
+        - 266839
+        - 266856
+        - 266858
+        - 266867
+        - 266880
+        - 266893
+        - 266894
+        - 266903
+        - 266904
+        - 266995
+        - 267016
+        - 267446
+        - 267462
+        - 267554
+        - 267684
+        - 267740
+        - 267756
+        - 267761
+        - 267767
+        - 267768
+        - 267778
+        - 267787
+        - 267828
+        - 267857
+        - 267869
+        - 267893
+        - 267916
+        - 267917
+        - 267919
+        - 267924
+        - 267993
+        - 268160
+        - 268314
+        - 268485
+        - 268514
+        - 268537
+        - 268538
+        - 268640
+        - 268726
+        - 2688
+        - 268817
+        - 268818
+        - 268900
+        - 269327
+        - 269416
+        - 269439
+        - 269499
+        - 269632
+        - 269725
+        - 269728
+        - 269729
+        - 269734
+        - 269736
+        - 269737
+        - 269745
+        - 269756
+        - 269761
+        - 269769
+        - 269799
+        - 269806
+        - 269822
+        - 269830
+        - 269831
+        - 269838
+        - 269841
+        - 269852
+        - 269853
+        - 269855
+        - 269884
+        - 269909
+        - 269914
+        - 269926
+        - 269927
+        - 269934
+        - 269935
+        - 269936
+        - 269940
+        - 269953
+        - 269963
+        - 269976
+        - 269980
+        - 269989
+        - 269990
+        - 269991
+        - 270016
+        - 270035
+        - 270049
+        - 270058
+        - 270068
+        - 270075
+        - 270088
+        - 270095
+        - 270100
+        - 270340
+        - 270538
+        - 270654
+        - 270826
+        - 270838
+        - 270868
+        - 270938
+        - 271136
+        - 271212
+        - 271288
+        - 271325
+        - 271340
+        - 271343
+        - 271357
+        - 271439
+        - 271553
+        - 271632
+        - 271652
+        - 271781
+        - 271785
+        - 271795
+        - 271822
+        - 271837
+        - 271840
+        - 271851
+        - 271874
+        - 271882
+        - 271911
+        - 271923
+        - 271929
+        - 271933
+        - 271936
+        - 271938
+        - 271941
+        - 271948
+        - 271967
+        - 271969
+        - 271977
+        - 271992
+        - 272000
+        - 272024
+        - 272026
+        - 272032
+        - 272034
+        - 272037
+        - 272056
+        - 272060
+        - 272061
+        - 272075
+        - 272080
+        - 272139
+        - 272161
+        - 272193
+        - 272423
+        - 272501
+        - 272688
+        - 272713
+        - 272725
+        - 272808
+        - 272818
+        - 272819
+        - 272823
+        - 272847
+        - 272859
+        - 272877
+        - 272910
+        - 272914
+        - 272929
+        - 272930
+        - 272932
+        - 272936
+        - 272939
+        - 272954
+        - 272958
+        - 272969
+        - 272998
+        - 273034
+        - 273035
+        - 273075
+        - 273077
+        - 273079
+        - 273098
+        - 273102
+        - 273123
+        - 273127
+        - 273139
+        - 273142
+        - 273145
+        - 273166
+        - 273171
+        - 273358
+        - 273574
+        - 273654
+        - 273772
+        - 27669
+        - 27708
+        - 27735
+        - 27740
+        - 27795
+        - 27796
+        - 27902
+        - 27903
+        - 27912
+        - 27928
+        - 27932
+        - 27947
+        - 28049
+        - 28058
+        - 28069
+        - 28087
+        - 28088
+        - 28099
+        - 28103
+        - 28110
+        - 28116
+        - 28124
+        - 28166
+        - 28313
+        - 28338
+        - 28590
+        - 30012
+        - 30614
+        - 3360
+        - 3551
+        - 3790
+        - 395715
+        - 396356
+        - 400317
+        - 45663
+        - 52238
+        - 52242
+        - 52245
+        - 52251
+        - 52263
+        - 52320
+        - 52363
+        - 52392
+        - 52423
+        - 52925
+        - 52931
+        - 53013
+        - 53062
+        - 53133
+        - 53153
+        - 61468
+        - 61483
+        - 61484
+        - 61497
+        - 61792
+        - 61923
+        - 64150
+        - 6762
+        - 6939
+        - 7727
+  generate:
+    exclude: []
+    excludeDelegated: true
+    monitoredASes:
+      - '52468'
+    historical: false
+    group: noc
+    asnList:
+      - '52468'

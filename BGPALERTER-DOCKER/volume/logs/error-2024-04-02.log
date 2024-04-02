@@ -1,0 +1,19 @@
+2024-04-02T17:02:14+00:00 info: ris connector connected (instance:44dfcb2c-059f-452f-86d7-90350971047b connection:92d1b9f6-ac69-4394-a039-93354911ff5e)
+2024-04-02T17:02:14+00:00 info: Subscribed to monitored resources
+2024-04-02T17:02:15+00:00 info: Subscribed to beacons
+2024-04-02T17:10:56+00:00 info: ris connector connected (instance:44dfcb2c-059f-452f-86d7-90350971047b connection:8af9cc78-6d11-43b4-9364-28a883349e6b)
+2024-04-02T17:12:27+00:00 info: Subscribed to monitored resources
+2024-04-02T17:12:27+00:00 info: Subscribed to monitored resources
+2024-04-02T17:12:27+00:00 info: Prefix rules reloaded
+2024-04-02T17:12:28+00:00 info: Subscribed to beacons
+2024-04-02T17:12:28+00:00 info: Subscribed to beacons
+2024-04-02T17:14:09+00:00 info: ris connector connected (instance:fa5c2191-8b6e-4509-ad47-0fea7a22c179 connection:b8854224-8d39-44e0-b91f-6d68ca67bd0e)
+2024-04-02T17:15:38+00:00 info: Subscribed to monitored resources
+2024-04-02T17:15:39+00:00 info: Subscribed to beacons
+2024-04-02T20:00:42+00:00 info: [reportSyslog] sending report to: 172.24.0.4
+2024-04-02T20:21:43+00:00 info: [reportSyslog] sending report to: 172.24.0.4
+2024-04-02T20:25:35+00:00 info: [reportSyslog] sending report to: 172.24.0.4
+2024-04-02T20:46:43+00:00 info: ris connector connected (instance:e702e3e1-377b-4df4-ab4f-a6505b8a9f64 connection:d865e04c-ab1b-4535-a0e3-d658a3cf9253)
+2024-04-02T20:48:21+00:00 info: Subscribed to monitored resources
+2024-04-02T20:48:22+00:00 info: Subscribed to beacons
+2024-04-02T21:41:39+00:00 info: [reportSyslog] sending report to: 172.24.0.4

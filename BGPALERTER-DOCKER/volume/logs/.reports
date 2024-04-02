@@ -1,0 +1,15 @@
+{
+    "keep": {
+        "days": false,
+        "amount": 10
+    },
+    "auditLog": "/opt/bgpalerter/volume/logs/.reports",
+    "files": [
+        {
+            "date": 1712077315844,
+            "name": "/opt/bgpalerter/volume/logs/reports-2024-04-02.log",
+            "hash": "031b47278aad467de6cd9f2f834bf0b3"
+        }
+    ],
+    "hashType": "md5"
+}

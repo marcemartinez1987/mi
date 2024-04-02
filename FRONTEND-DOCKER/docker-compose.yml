@@ -1,0 +1,9 @@
+version: '3'
+
+services:
+  apache:
+    image: mmartineznetdev/frontend-docker-apache-1
+    ports:
+      - "3006:80"
+    volumes:
+      - ./web:/usr/local/apache2/htdocs

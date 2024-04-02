@@ -1,0 +1,4 @@
+2024-04-02T20:00:40+00:00 verbose: A new prefix 2803:2540:109::/48 is announced by AS52468. It is a more specific of 2803:2540::/32 (No description provided). Maybe you need to update your BGPalerter prefix list.
+2024-04-02T20:21:42+00:00 verbose: The prefix 2803:2540:e2:0:0:0:0:0/48 (No description provided) has been withdrawn. It is no longer visible from 40 peers
+2024-04-02T20:25:35+00:00 verbose: The prefix 2803:bc40:8170:0:0:0:0:0/48 (No description provided) has been withdrawn. It is no longer visible from 40 peers
+2024-04-02T21:41:38+00:00 verbose: The prefix 2803:2540:15:0:0:0:0:0/48 (No description provided) has been withdrawn. It is no longer visible from 40 peers

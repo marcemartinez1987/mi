@@ -1,0 +1,29 @@
+#!/bin/bash
+
+# Define the name of the Git repository
+repository_name="mi"
+
+# Define the remote repository URL
+remote_url="https://github.com/marcemartinez1987/mi.git"
+
+# Create a directory for the Git repository
+mkdir "$repository_name"
+
+# Move into the directory
+cd "$repository_name" || exit
+
+# Initialize a new Git repository
+git init
+
+# Add all files and folders to the repository
+git add .
+
+# Commit changes with a default message
+git commit -m "Initial commit"
+
+# Add the remote repository
+git remote add origin "$remote_url"
+
+# Push the changes to the remote repository
+git push -u origin master
+

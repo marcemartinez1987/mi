@@ -1,0 +1,9 @@
+version: "3.3"
+services:
+  routinator:
+    container_name: ROUTINATOR-RPKI
+    image: nlnetlabs/routinator
+    restart: on-failure
+    ports:
+      - 3323:3323
+      - 8323:8323
